@@ -9,4 +9,4 @@ This app lets you sell your video streams using cryptocurrency : whether you're 
 - Available on most mainnet blockchain network.
 
 # Fee
-You have to pay a small fee of $2 a month to use the app. The app is yours and involves no third parties.
+It's free, but starting a token stream and withdrawing token cost ETH as a gas fee running smart contract. The app is yours and involves no third parties.
