@@ -18,5 +18,5 @@ It's free, but starting a token stream and withdrawing token cost ETH as a gas f
 # Release / download page
 Link to downloadable release (download the *.zip file for windows 10+ *.exe inside):
 
-[a link](https://github.com/Artinep/MeCam/releases/tag/mecam_release)
+[download-link](https://github.com/Artinep/MeCam/releases/tag/mecam_release)
 
