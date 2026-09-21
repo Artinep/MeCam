@@ -9,7 +9,14 @@ This app allows you to real-time per-second money streaming using cryptocurrency
 - A display board for sharing status / streaming status,
 - A web interface to browse your favorite sites,
 - An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of ETH in your account because transaction on the Ethereum network require ETH as a gas fees),
+- User-friendly: all it takes is a simple exchange of ID to transfer and receive money directly to your wallet,
 - Available on most mainnet blockchain network.
 
 # Fee
 It's free, but starting a token stream and withdrawing token cost ETH as a gas fee running smart contract. The app is yours and involves no third parties.
+
+# Release / download page
+Link to downloadable release (download the *.zip file for windows 10+ *.exe inside):
+
+[a link](https://github.com/Artinep/MeCam/releases/tag/mecam_release)
+
