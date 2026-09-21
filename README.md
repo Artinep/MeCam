@@ -15,6 +15,11 @@ This app allows you to real-time per-second money streaming using cryptocurrency
 # Fee
 It's free, but starting a token stream and withdrawing token cost ETH as a gas fee running smart contract. The app is yours and involves no third parties.
 
+# Github page
+
+[github-page](https://artinep.github.io/MeCam/) (Web page)
+[github-page](https://github.com/Artinep/MeCam) (Repo)
+
 # Release / download page
 Link to downloadable release (download the *.zip file for windows 10+ *.exe inside):
 
