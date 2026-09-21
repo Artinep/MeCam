@@ -1,12 +1,13 @@
 # MeCam
 [![MeCam.exe](https://artinep.github.io/MeCam/logo.png)](https://artinep.github.io/MeCam/mecam.mp4)
 
-This app allows you to real-time per-second money streaming using cryptocurrency : whether you're a teacher, tiktoker, zoom user, youtuber, art performer, someone who wants to monetize their creative content or someone who wants to only stream money (video call is optional).
+This app allows you to real-time per-second money streaming using cryptocurrency : whether you're a teacher, tiktoker, zoom user, facebook user, youtuber, art performer, someone who wants to monetize their creative content or someone who wants to only stream money (video call is simply a way to maintain contact : it's optional).
 
 # Feature
-- Mecam.exe｜Secure standalone portable Windows app｜No installation required,
+- Mecam.exe｜Secure standalone portable Windows app (Win 10+ 64bit)｜No installation required,
 - A peer to peer chat/video (optional) call with a customizable per-second payment automation system,
 - A display board for sharing status / streaming status,
+- A web interface to browse your favorite sites,
 - An Ethereum wallet where you are free to withdraw or spend your money whenever and wherever you want (It's important to leave a small amount of ETH in your account because transaction on the Ethereum network require ETH as a gas fees),
 - Available on most mainnet blockchain network.
 
