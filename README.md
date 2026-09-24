@@ -42,7 +42,10 @@ Link to downloadable release :
 
 # Support the Project
 
-- TO DO
+Why support the project?
+- To host a more efficient server to improve interaction between users,
+- To deploy more smart contracts for additional functionality.
+- TO DO : add link
 
 # License
 
